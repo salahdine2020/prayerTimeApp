@@ -1,0 +1,129 @@
+{
+  "country": "Algeria",
+  "cities": [
+    {
+      "state": "Algiers",
+      "image" : ""
+    },
+    {
+      "state": "Annaba",
+      "image" : ""
+    },
+    {
+      "state": "Azazga",
+      "image" : ""
+    },
+    {
+      "state": "Batna City",
+      "image" : ""
+    },
+    {
+      "state": "Blida",
+      "image" : ""
+    },
+    {
+      "state": "Bordj Bou Arreridj",
+      "image" : ""
+    },
+    {
+      "state": "Bougara",
+      "image" : ""
+    },
+    {
+      "state": "Cheraga",
+      "image" : ""
+    },
+    {
+      "state": "Chlef",
+      "image" : ""
+    },
+    {
+      "state": "Constantine",
+      "image" : ""
+    },
+    {
+      "state": "Djelfa",
+      "image" : ""
+    },
+    {
+      "state": "Draria",
+      "image" : ""
+    },
+    {
+      "state": "El Taraf",
+      "image" : ""
+    },
+    {
+      "state": "Hussein Dey",
+      "image" : ""
+    },
+    {
+      "state": "Illizi",
+      "image" : ""
+    },
+    {
+      "state": "Jijel",
+      "image" : ""
+    },
+    {
+      "state": "Kouba",
+      "image" : ""
+    },
+    {
+      "state": "Laghouat",
+      "image" : ""
+    },
+    {
+      "state": "Oran",
+      "image" : ""
+    },
+    {
+      "state": "Ouargla",
+      "image" : ""
+    },
+    {
+      "state": "Oues Smar",
+      "image" : ""
+    },
+    {
+      "state": "Relizane",
+      "image" : ""
+    },
+    {
+      "state": "Rouiba",
+      "image" : ""
+    },
+    {
+      "state": "Saida",
+      "image" : ""
+    },
+    {
+      "state": "Souk Ahras",
+      "image" : ""
+    },
+    {
+      "state": "Tamanghasset",
+      "image" : ""
+    },
+    {
+      "state": "Tiaret",
+      "image" : ""
+    },
+    {
+      "state": "Tissemsilt",
+      "image" : ""
+    },
+    {
+      "state": "Tizi",
+      "image" : ""
+    },
+    {
+      "state": "Tizi Ouzou",
+      "image" : ""
+    },
+    {
+      "state": "Tlemcen",
+      "image" : ""
+    }
+  ]
+}
