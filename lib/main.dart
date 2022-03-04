@@ -9,6 +9,7 @@ import 'package:prayertimes/models/modelapi.dart';
 import 'package:prayertimes/widgets/choicescreen.dart';
 
 import 'blocs/blocapi/prayerapi_bloc.dart';
+//todo: test merging from mysecondbranch into main
 
 void main() {
   runApp(MyApp());
