@@ -217,6 +217,6 @@ class _PrayerTimePageState extends State<PrayerTimePage> {
       },
     );
   }
-
+  //todo: add some function
   Widget _buildLoading() => Center(child: CircularProgressIndicator());
 }
