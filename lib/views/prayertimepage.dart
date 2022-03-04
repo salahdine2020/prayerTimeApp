@@ -207,8 +207,8 @@ class _PrayerTimePageState extends State<PrayerTimePage> {
               margin: EdgeInsets.all(8.0),
               child: Column(
                 children: <Widget>[
-                  //Text("Country: ${model.countries[index].country}"),
-
+                  //todo: model!.countries[index].country}
+                  Text("Country: ${model.results}"),
                 ],
               ),
             ),
