@@ -218,5 +218,6 @@ class _PrayerTimePageState extends State<PrayerTimePage> {
     );
   }
   //todo: add some function
+  // todo : i try to push this branch push branch
   Widget _buildLoading() => Center(child: CircularProgressIndicator());
 }
