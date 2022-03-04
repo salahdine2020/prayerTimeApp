@@ -217,8 +217,6 @@ class _PrayerTimePageState extends State<PrayerTimePage> {
       },
     );
   }
-  /// now I am in main branch
-  /// and now i am in head branch
-  /// /// theard comment to save
+
   Widget _buildLoading() => Center(child: CircularProgressIndicator());
 }
